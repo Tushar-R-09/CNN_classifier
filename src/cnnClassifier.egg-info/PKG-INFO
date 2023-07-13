@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Tushar-R-09/CNN_classifier
+Author: Tushar-R-09
+Author-email: tusharrohilla70@gmail.com
+Project-URL: Bug Tracker, https://github.com/Tushar-R-09/CNN_classifier/issues
+
+# CNN_classifier
+This project demonstrate how to build a basic CNN classifier and deploy it to end point
